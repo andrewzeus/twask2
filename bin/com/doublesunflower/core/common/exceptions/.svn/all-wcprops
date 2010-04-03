@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/common/exceptions
+END
+BusinessException.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/common/exceptions/BusinessException.java
+END
+TechnicalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/common/exceptions/TechnicalException.java
+END

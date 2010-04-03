@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+
+<LinearLayout 
+	android:id ="@+id/rlayout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20px"
+    >
+<TextView android:id="@+id/search_prompt"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Type a search query (e.g. coffee, restaurants, hotels):"
+/>
+<EditText android:id="@+id/search_string"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/search_prompt"
+/>
+<TextView android:id="@+id/location_prompt"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/search_string"
+android:text="Type your desired location, or leave the field blank if you want to use your current location:"
+/>
+<EditText android:id="@+id/location_string"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/location_prompt"
+/>
+<Spinner android:id="@+id/distance_spinner"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/location_string"
+android:layout_alignParentRight="true"
+android:text="Choose maximum distance from entered location (miles):"
+/>
+<TextView android:id="@+id/dist_spinner_desc"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/location_string"
+android:layout_alignTop="@id/distance_spinner"
+android:text="Choose maximum distance from entered location (miles):"
+/>
+<Button android:id="@+id/search_top_rated"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/distance_spinner"
+android:layout_alignParentRight="true"
+android:text="Search"
+/>
+ <ListView android:id="@id/android:list"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/search_top_rated"
+        android:layout_weight="0"
+        />
+          <TextView android:id="@id/android:empty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
+
+</LinearLayout>
+
+</ScrollView>

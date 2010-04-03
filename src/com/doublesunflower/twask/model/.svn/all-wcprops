@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model
+END
+TaskModelForRepeat.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForRepeat.java
+END
+TaskModelForSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForSync.java
+END
+TagModelForView.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TagModelForView.java
+END
+TaskModelForEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForEdit.java
+END
+TaskModelForNotify.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForNotify.java
+END
+AlertModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/AlertModel.java
+END
+TaskModelForView.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForView.java
+END
+AbstractModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/AbstractModel.java
+END
+TaskModelForReminder.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForReminder.java
+END
+SyncMappingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/SyncMappingModel.java
+END
+TagToTaskMappingModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TagToTaskMappingModel.java
+END
+TaskModelForList.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/TaskModelForList.java
+END
+AbstractTaskModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/AbstractTaskModel.java
+END
+AbstractTagModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/model/AbstractTagModel.java
+END

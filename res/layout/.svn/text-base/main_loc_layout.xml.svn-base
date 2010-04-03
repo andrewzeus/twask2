@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+
+<LinearLayout 
+	android:id ="@+id/main_loc_rlayout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20px"
+    >
+<TextView android:id="@+id/main_addr"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="_null_"
+/>
+<Button android:id="@+id/showfull"
+android:layout_width = "wrap_content"
+android:layout_height = "wrap_content"
+android:layout_marginLeft ="10px"
+android:layout_alignParentRight = "true"
+android:layout_below="@id/main_addr"
+android:text="Show Full List of Locations"
+/>
+<Button android:id="@+id/cont"
+android:layout_width = "wrap_content"
+android:layout_height = "wrap_content"
+android:layout_alignTop="@id/showfull"
+android:text="Continue With This Location"
+/>
+
+
+</LinearLayout>
+</ScrollView>

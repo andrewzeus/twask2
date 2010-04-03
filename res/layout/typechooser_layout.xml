@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id ="@+id/rlayout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20px"
+    >
+<TextView android:id="@+id/address_text_tc"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text=""
+/>
+<TextView android:id="@+id/tc_info_text"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/address_text_tc"
+android:text="Select the description that best matches the type of business you are rating:"
+/>
+<RadioGroup android:id="@+id/type_radio_group"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+android:padding="10px"
+android:layout_below="@id/tc_info_text"
+>
+<RadioButton android:id="@+id/restaurant"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Restaurant"
+/>
+<RadioButton android:id="@+id/hotel"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/rating_five"
+android:text="Hotel"
+/>
+
+</RadioGroup>
+<TextView android:id="@+id/additional_info_description"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/type_radio_group"
+android:text="If no descriptions above match the type of business you are rating, add any appropriate search terms in the box below. Also feel free to make note of the specific type of item you may have purchased. Example submission -- [convenience store, coffee]"
+/>
+<EditText android:id="@+id/additional_tags"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/additional_info_description"
+/>
+
+<Button android:id="@+id/cont_to_rate_picker"
+android:layout_width = "wrap_content"
+android:layout_height = "wrap_content"
+android:layout_alignParentRight = "true"
+android:layout_below="@id/additional_tags"
+android:text="Continue"
+/>
+<Button android:id="@+id/deselect_all"
+android:layout_width = "wrap_content"
+android:layout_height = "wrap_content"
+android:layout_alignParentLeft = "true"
+android:layout_below="@id/additional_tags"
+android:text="Deselect Radio Buttons"
+/>
+
+</RelativeLayout>

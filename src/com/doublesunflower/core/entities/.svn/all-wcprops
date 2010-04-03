@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities
+END
+ContactAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/ContactAdapter.java
+END
+Picture.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Picture.java
+END
+PersonalRating.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/PersonalRating.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Video.java
+END
+Event.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Event.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Link.java
+END
+Place.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Place.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Audio.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Entity.java
+END
+Note.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/entities/Note.java
+END

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+>
+
+		<LinearLayout 
+			android:id ="@+id/rlayout"
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent"
+		    android:padding="20px"
+		    >
+		    
+		   
+		   
+			<TextView android:id="@+id/info"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="Type the name of the business you would like to evaluate in the box below:"
+			/>
+			<EditText android:id="@+id/tb"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/info"
+			/>
+			<Button android:id="@+id/go"
+			android:layout_width = "wrap_content"
+			android:layout_height = "wrap_content"
+			android:layout_alignParentRight = "true"
+			android:layout_below="@id/tb"
+			android:text="Find Business"
+			/>
+			<TextView android:id="@+id/address"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_below="@id/go"
+			android:text=""
+			/>
+			<Button android:id="@+id/continuex"
+			android:layout_width = "wrap_content"
+			android:layout_height = "wrap_content"
+			android:layout_alignParentRight = "true"
+			android:layout_below="@id/address"
+			android:text="Rate Business"
+			/>
+			<Button android:id="@+id/show_full"
+			android:layout_width = "wrap_content"
+			android:layout_height = "wrap_content"
+			android:layout_alignTop="@id/continuex"
+			android:text="Show Other Nearby Locations"
+			/>
+			
+			
+			<ListView android:id="@id/android:list"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:layout_below="@id/continuex"
+			        android:layout_weight="0"
+			/>
+			
+			<TextView android:id="@id/android:empty"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text=""
+			/>
+		           
+		</LinearLayout>
+
+</ScrollView>

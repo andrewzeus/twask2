@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id ="@+id/rlayout"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="20px"
+    >
+<TextView android:id="@+id/address_text"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text=""
+/>
+<RadioGroup android:id="@+id/rate_radio_group"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:orientation="vertical"
+android:padding="10px"
+android:layout_below="@id/address_text"
+>
+<RadioButton android:id="@+id/rating_five"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="5 (Excellent)"
+/>
+<RadioButton android:id="@+id/rating_four"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/rating_five"
+android:text="4 (Good)"
+/>
+<RadioButton android:id="@+id/rating_three"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/rating_four"
+android:text="3 (Mediocre)"
+/>
+<RadioButton android:id="@+id/rating_two"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/rating_three"
+android:text="2 (Poor)"
+/>
+<RadioButton android:id="@+id/rating_one"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_below="@id/rating_two"
+android:text="1 (Horrible)"
+/>
+</RadioGroup>
+
+<Button android:id="@+id/submit_rating"
+android:layout_width = "wrap_content"
+android:layout_height = "wrap_content"
+android:layout_alignParentRight = "true"
+android:layout_below="@id/rate_radio_group"
+android:text="Submit Rating"
+/>
+
+</RelativeLayout>

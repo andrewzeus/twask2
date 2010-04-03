@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync
+END
+RTMSyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/RTMSyncService.java
+END
+GoogleMailSyncActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/GoogleMailSyncActivity.java
+END
+SyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/SyncService.java
+END
+TaskProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/TaskProxy.java
+END
+Synchronizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/Synchronizer.java
+END
+GoogleCalendarSyncActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/twask/utils/sync/GoogleCalendarSyncActivity.java
+END

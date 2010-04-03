@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/Twask-new/src/com/doublesunflower/core/ui/sensor
+END
+SensorEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/Twask-new/src/com/doublesunflower/core/ui/sensor/SensorEvent.java
+END
+ShakeDropDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/19/Twask-new/src/com/doublesunflower/core/ui/sensor/ShakeDropDetector.java
+END
+SensorGestureDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/18/Twask-new/src/com/doublesunflower/core/ui/sensor/SensorGestureDetector.java
+END
+SensorGestureDetectorActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/18/Twask-new/src/com/doublesunflower/core/ui/sensor/SensorGestureDetectorActivity.java
+END

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+android:id="@+id/header"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="#00000000"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+>
+<TableLayout
+android:id="@+id/tableHeader"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:background="#00000000"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+>
+<TableRow
+android:id="@+id/trToolbar"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="horizontal"
+>
+<LinearLayout
+android:id="@+id/llToolbar"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<ImageButton
+android:id="@+id/btnSearch"
+android:src="@drawable/system_search"
+android:padding="2px"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+</ImageButton>
+<ImageButton
+android:id="@+id/btnBack"
+android:src="@drawable/go_previous"
+android:padding="2px"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+</ImageButton>
+<ImageButton
+android:id="@+id/btnNew"
+android:src="@drawable/document_new"
+android:padding="2px"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+</ImageButton>
+<ImageButton
+android:id="@+id/btnSynchronize"
+android:src="@drawable/system_software_update"
+android:padding="2px"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+</ImageButton>
+</LinearLayout>
+</TableRow>
+<TableRow
+android:id="@+id/trTitle"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="horizontal"
+>
+<LinearLayout
+android:id="@+id/llTitle"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<ImageView
+android:id="@+id/iconTitle"
+android:src="@drawable/system_users"
+android:padding="8px"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+>
+</ImageView>
+<TextView
+android:id="@+id/txtTitle"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:paddingLeft="5px"
+android:paddingTop="14px"
+android:text=""
+android:textStyle="bold"
+android:textColor="#FF000000"
+>
+</TextView>
+</LinearLayout>
+</TableRow>
+</TableLayout>
+<ListView android:id="@android:id/list"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:drawSelectorOnTop="false"
+		>
+</ListView>
+<TextView android:id="@android:id/empty"
+               android:layout_width="fill_parent" 
+               android:layout_height="fill_parent"
+               android:background="#000000"
+               android:text="No data"/>
+</LinearLayout>

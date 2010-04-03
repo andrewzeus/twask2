@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities/Product.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities/Category.java
+END
+Customer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities/Customer.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities/Order.java
+END
+Supplier.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/entities/Supplier.java
+END

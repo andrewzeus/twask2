@@ -1,0 +1,81 @@
+9
+
+dir
+4
+https://twask2.googlecode.com/svn/Twask-new/src/com/doublesunflower/extensions/sales
+https://twask2.googlecode.com/svn
+
+
+
+2009-03-15T20:40:59.837338Z
+4
+andrewxuheng
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b1f2f904-0942-11de-b55b-d397e7115e68
+
+
+
+
+
+
+0
+
+Sales.java
+file
+
+
+
+
+2009-03-15T19:56:27.000000Z
+3bbc86aa4e93865cf1f407f3a0637ff4
+2009-03-15T20:40:59.837338Z
+4
+andrewxuheng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3702
+
+actions
+dir
+
+connectors
+dir
+
+entities
+dir
+
+ui
+dir
+

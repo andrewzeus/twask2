@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen  
+    xmlns:android="http://schemas.android.com/apk/res/android">  
+    
+    <PreferenceCategory
+        android:title="@string/sync_pref_group">
+    
+        <CheckBoxPreference  
+            android:key="@string/p_sync_rtm"  
+            android:title="@string/sync_rtm_title"  
+            android:summary="@string/sync_rtm_desc" />  
+
+    </PreferenceCategory>
+    
+    <PreferenceCategory
+        android:title="@string/sync_pref_group_options">
+    
+        <EditTextPreference  
+            android:key="@string/p_sync_every"  
+            android:title="@string/sync_every_title"  
+            android:summary="@string/sync_every_desc" />
+            
+        <CheckBoxPreference  
+            android:key="@string/p_sync_button"  
+            android:title="@string/sync_button_title"  
+            android:summary="@string/sync_button_desc" />
+            
+        <CheckBoxPreference  
+            android:key="@string/p_sync_quiet"  
+            android:title="@string/sync_quiet_title"  
+            android:summary="@string/sync_quiet_desc" />
+
+    </PreferenceCategory>
+    
+</PreferenceScreen>  

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer
+END
+DeleteCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/DeleteCustomerAction.java
+END
+OpenCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/OpenCustomerAction.java
+END
+OpenCustomerListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/OpenCustomerListAction.java
+END
+GetCustomerListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/GetCustomerListAction.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/Util.java
+END
+SaveCustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/extensions/sales/actions/customer/SaveCustomerAction.java
+END

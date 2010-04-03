@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data
+END
+RtmLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmLocation.java
+END
+RtmTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTask.java
+END
+RtmTaskList.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTaskList.java
+END
+RtmTimeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTimeline.java
+END
+RtmFrob.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmFrob.java
+END
+RtmLists.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmLists.java
+END
+RtmList.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmList.java
+END
+RtmTaskSeries.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTaskSeries.java
+END
+RtmUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmUser.java
+END
+RtmData.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmData.java
+END
+RtmAuth.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmAuth.java
+END
+RtmTasks.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTasks.java
+END
+RtmTaskNote.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTaskNote.java
+END
+RtmTaskNotes.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/data/RtmTaskNotes.java
+END

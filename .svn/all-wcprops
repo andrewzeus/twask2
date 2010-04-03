@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/3/Twask-new
+END
+android-src.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/Twask-new/android-src.jar
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/18/Twask-new/AndroidManifest.xml
+END
+commons-codec-1.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/Twask-new/commons-codec-1.3.jar
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/4/Twask-new/.project
+END
+imapstore.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/4/Twask-new/imapstore.jar
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/4/Twask-new/.classpath
+END
+kxml2-2.3.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/Twask-new/kxml2-2.3.0.jar
+END

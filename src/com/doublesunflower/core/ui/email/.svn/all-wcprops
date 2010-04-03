@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email
+END
+Consts.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/Consts.java
+END
+PrefStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/PrefStore.java
+END
+SmsConsts.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/SmsConsts.java
+END
+SmsBroadcastReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/SmsBroadcastReceiver.java
+END
+CursorToMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/CursorToMessage.java
+END
+SmsSync.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/SmsSync.java
+END
+Alarms.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/Alarms.java
+END
+SmsSyncService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/ui/email/SmsSyncService.java
+END

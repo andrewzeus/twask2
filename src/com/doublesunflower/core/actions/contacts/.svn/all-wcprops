@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts
+END
+GetContactListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts/GetContactListAction.java
+END
+OpenContactListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/Twask-new/src/com/doublesunflower/core/actions/contacts/OpenContactListAction.java
+END
+SyncMLContactListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts/SyncMLContactListAction.java
+END
+PickContactAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts/PickContactAction.java
+END
+ShareContactListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts/ShareContactListAction.java
+END
+SyncGmailContactListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/contacts/SyncGmailContactListAction.java
+END

@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TWASK2</string>
+    
+      <string name="app_description">A novel Task Management Tool</string>
+    <string name="app_version">1.1.0</string>
+    
+    <string name="menu_contacts">Contacts</string>
+    <string name="menu_application">Application</string>
+    <string name="menu_task">Task</string>
+    <string name="menu_maps">Maps</string>
+    <string name="menu_utilities">Utilities and Tools</string>
+    <string name="menu_exit">Exit</string>
+     <string name="menu_sync">Sync</string>
+     <string name="menu_share">Share</string>
+     
+    <string name="menu_maps_item_web">Web</string>
+    
+    <string name="menu_contacts_item_contacts">All Contacts</string>
+    <!-- TODO: move to extension project..-->
+    <string name="menu_contacts_item_customers">Customers</string>
+    <string name="menu_contacts_item_suppliers">Suppliers</string>
+    <string name="menu_contacts_item_employees">Employees</string>
+    
+    
+    <string name="menu_tasks_item_task">Task</string>
+     <string name="menu_tasks_item_tag">Tag</string>
+    
+    <string name="menu_application_item_alerts">Alerts</string>
+    <!-- TODO: move to extension project..-->
+    <string name="menu_application_item_products">Products</string>
+    <string name="menu_application_item_orders">Orders</string>
+    
+    <string name="menu_maps_item_favorite_places">Favorite places</string>
+    <string name="menu_maps_item_start_gpslogging">start GPS logging</string>
+    <string name="menu_maps_item_stop_gpslogging">stop GPS logging</string>
+    
+    
+    <!-- TODO: move to extension project..-->
+    <string name="menu_maps_item_routes">Routes</string>
+    
+    <string name="menu_utilities_item_rss">RSS News</string>
+    <string name="menu_utilities_item_calendar">Calendar</string>
+    <string name="menu_utilities_item_email">Email</string>
+    <string name="menu_utilities_item_notes">Notes</string>
+    <string name="menu_utilities_item_pictures">Pictures</string>
+    <string name="menu_utilities_item_videos">Videos</string>
+    <string name="menu_utilities_item_audio">Audio</string>
+    
+    <string name="menu_exit_item_exit">Exit</string>
+    
+    <string name="menu_sync_item_gcalendar">Google Calendar Sync</string>
+     <string name="menu_sync_item_gmail">Google Mail Sync</string>
+     
+    <string name="menu_share_item_share">Share</string>
+    
+    <string name="menu_util_item_under_construction">Under construction</string>
+    
+    <string name="msg_error">Error</string>
+    
+    <string name="search_results">Matching:</string>
+    <string name="list_title">List</string>
+    
+    
+    <string name="dialog_title_question">Question</string>
+    <string name="dialog_exit_question">Are you sure that you want to quit?</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_button_no">No</string>
+    
+    <string name="msg_in_operation">In operation</string>
+    <string name="msg_under_construction">Under construction</string>
+    
+    <string name="title_synchronize_dialog">Synchronize with</string>
+    <array name="items_synchronize_dialog">
+        <item>Android device</item>
+        <item>Custom server</item>
+        <item>Google App</item>  
+    </array>
+    <string name="msg_sync_option">Sync option:</string>
+    <string name="msg_not_available">not available</string>
+    
+    <string name="title_search_dialog">Search</string>
+    <array name="items_search_dialog">
+        <item>Standard Search</item>
+        <item>Intelligent Search</item>  
+    </array>
+    <array name="items_global_search_dialog">
+        <item>Web Search</item>
+        <item>Local Search</item>  
+    </array>
+    <string name="msg_search_option">Search option:</string>
+    
+    
+    
+     
+    <!-- General String Constants -->
+    <skip />
+    
+        <!-- Importance Labels -->
+        <string name="importance_1">!!!!</string>
+        <string name="importance_2">!!!</string>
+        <string name="importance_3">!!</string>
+        <string name="importance_4">!</string>
+        
+        <!-- Repeat Interval Labels -->
+        <string name="repeat_days">Day(s)</string>
+        <string name="repeat_weeks">Week(s)</string>
+        <string name="repeat_months">Month(s)</string>
+        
+        <!-- Plurals -->
+        <plurals name="Ntasks">
+            <item quantity="one">1 Task</item>
+            <item quantity="other">%d Tasks</item>
+        </plurals>
+        <plurals name="NactiveTasks">
+            <item quantity="one">%d / %d Active</item>
+            <item quantity="other">%d / %d Active</item>
+        </plurals>
+        <plurals name="Nalarms">
+            <item quantity="one">One Alarm</item>
+            <item quantity="two">Two Alarms</item>
+            <item quantity="other">%d Alarms</item>
+        </plurals>
+        <plurals name="Ntags">
+            <item quantity="one">1 Tag</item>
+            <item quantity="other">%d Tags</item>
+        </plurals>
+        <!-- Time Constants -->
+        <string name="daysVertical">D\na\ny\ns</string>
+        <string name="hoursVertical">H\no\nu\nr\ns</string>
+        <plurals name="Ndays">
+            <item quantity="one">1 Day</item>
+            <item quantity="other">%d Days</item>
+        </plurals>
+        <plurals name="Nhours">
+            <item quantity="one">1 Hour</item>
+            <item quantity="other">%d Hours</item>
+        </plurals>
+        <plurals name="Nminutes">
+            <item quantity="one">1 Minute</item>
+            <item quantity="other">%d Minutes</item>
+        </plurals>
+        <plurals name="Nseconds">
+            <item quantity="one">1 Second</item>
+            <item quantity="other">%d Seconds</item>
+        </plurals>
+        <plurals name="NhoursShort">
+            <item quantity="one">1 Hr</item>
+            <item quantity="other">%d Hrs</item>
+        </plurals>
+        <plurals name="NminutesShort">
+            <item quantity="one">1 Min</item>
+            <item quantity="other">%d Min</item>
+        </plurals>
+        <plurals name="NsecondsShort">
+            <item quantity="one">1 Sec</item>
+            <item quantity="other">%d Sec</item>
+        </plurals>
+        <string name="ago_suffix">Ago</string>
+        
+    <!-- TaskList -->
+    <skip />
+        <string name="taskList_titlePrefix">Twask: </string>
+        <string name="taskList_titleTagPrefix">Tagged \"%s\": </string>
+        <string name="taskList_hiddenSuffix"> hidden</string>
+        <string name="addtask_label">New Twask</string>
+        
+        <string name="taskList_hiddenPrefix">H</string>
+        <string name="taskList_dueIn">Due in</string>
+        <string name="taskList_goalPrefix">Goal</string>
+        <string name="taskList_overdueBy">Overdue by</string>
+        <string name="taskList_completedPrefix">Finished</string>
+		<string name="taskList_estimatedTimePrefix">Estimated:</string>
+        <string name="taskList_elapsedTimePrefix">Spent:</string>
+        <string name="taskList_periodicReminderPrefix">Poke Every</string>
+        <string name="taskList_repeatPrefix">Repeats Every</string>
+        <string name="taskList_alarmPrefix">Next Alarm:</string>
+        <string name="taskList_tagsPrefix">Tags:</string>
+        <string name="taskList_notesPrefix">Notes:</string>
+        <string name="taskList_createdPrefix">Created:</string>
+        
+        <string name="taskList_menu_insert">Add</string>
+        <string name="taskList_menu_tags">Tags</string>
+        <string name="taskList_menu_filters">Display</string>
+        <string name="taskList_menu_syncshortcut">Sync</string>
+        <string name="taskList_menu_more">More</string>
+        <string name="taskList_menu_sync">Synchronization</string>
+        <string name="taskList_menu_settings">Settings</string>
+        <string name="taskList_menu_help">Online Help</string>
+        <string name="taskList_menu_survey">Take twask\'s Survey!</string>
+        <string name="taskList_menu_tips">Quick Tips</string>
+        
+        <string name="taskList_context_edit">Edit Task</string>
+        <string name="taskList_context_delete">Delete Task</string>
+        <string name="taskList_context_startTimer">Start Timer</string>
+        <string name="taskList_context_stopTimer">Stop Timer</string>
+        <string name="taskList_context_postpone">Postpone</string>
+        
+        <string name="taskList_filter_title">Sort/Filters</string>
+        <string name="taskList_filter_hidden">Hidden/Blocked Tasks</string>
+        <string name="taskList_filter_done">Completed Tasks</string>
+        <string name="taskList_filter_tagged">Tagged \'%s\'</string>
+        <string name="taskList_sort_auto">Auto Sort</string>
+        <string name="taskList_sort_alpha">Sort By Name</string>
+        <string name="taskList_sort_duedate">Sort By Due Date</string>
+        <string name="taskList_sort_reverse">Sort Reverse</string>
+        
+        <string name="taskList_postpone_dialog">Postpone for how long?</string>
+
+    <!-- TaskEdit -->
+    <skip />
+    
+        <string name="taskEdit_titleGeneric">twask: Editing Task</string>
+        <string name="taskEdit_titlePrefix">twask: Editing </string>
+        <string name="taskEdit_label">twask: New Task</string>
+        
+        <string name="task_edit_tab_1">Basic</string>
+        <string name="task_edit_tab_2">Dates</string>
+        <string name="task_edit_tab_3">Alerts</string>
+        
+        <!-- labels -->
+        <string name="name_label">Summary</string>
+        <string name="name_hint">Task Description</string>
+        <string name="importance_label">How Important is it?</string>
+        <string name="tags_label">Tags:</string>
+        
+        <string name="estimatedDuration_label">How Long Will it Take?</string>
+        <string name="elapsedDuration_label">Time Already Spent on Task</string>
+        <string name="definiteDueDate_label">Absolute Deadline</string>
+        <string name="preferredDueDate_label">Goal Deadline</string>
+        <string name="addToCalendar_label">Add Task To Calendar</string>
+        <string name="showCalendar_label">Open Calendar Event</string>
+        <string name="hiddenUntil_label">Hide Until This Date</string>
+        <string name="repeat_label">Repeat Every</string>
+        <string name="repeat_value_unset">No Repeat Set</string>
+        <string name="blockingOn_label">Hide Until This Task is Done</string>
+        <string name="notes_label">Notes</string>
+        <string name="notes_hint">Enter Task Notes</string>
+        
+        <string name="notification_label">Periodic Reminders</string>
+        <string name="notification_prefix">Every</string>
+        <string name="flags_label">Notify me...</string>
+        <string name="flag_before">As Deadlines Approach</string>
+        <string name="flag_during">At Deadlines</string>
+        <string name="flag_after">After Absolute Deadline Passes</string>
+        <string name="flag_nonstop">Nonstop Until I View the Task</string>
+        <string name="alerts_label">Fixed Reminders</string>
+        <string name="add_alert">Add New Reminder</string>
+        
+        <!-- dialog boxes -->
+        <string name="hour_minutes_dialog">Time (hours : minutes)</string>
+        <string name="notification_dialog">Remind Me Every</string>
+        <string name="repeat_picker_title">Repeat Every (0 to disable)</string>
+        <string name="repeat_help_dialog_title">Help: twask Repeats</string>
+        <string name="repeat_help_dialog">
+To use repeats, set at least one of the deadlines above. When you complete this task, the deadline will be automatically advanced.
+\n\n
+If you don\'t want to see the new task right after you complete the old one, you should use the "Hide Until" field, which will also be advanced automatically.
+\n
+        </string>
+        <string name="repeat_help_hide">Dont Show Help Anymore</string>
+        
+        <!-- buttons -->
+        <string name="save_label">Save</string>
+        <string name="discard_label">Discard</string>
+        <string name="edit_label">Edit</string>
+        <string name="delete_label">Delete</string>
+        <string name="blank_button_title">Click to Set</string>
+        <string name="startTimer_label">Start Timer</string>
+        <string name="stopTimer_label">Stop Timer</string>
+        
+        <string name="taskEdit_menu_save">Save</string>
+      
+    <!-- TaskView  -->
+    <skip />
+    
+        <string name="taskView_notifyTitle">twask says...</string>
+        
+    <!-- Tag List -->
+    <skip />
+        <string name="tagList_titlePrefix">twask: Tag View: </string>
+        <string name="tagList_context_create">Create Task With Tag</string>
+        <string name="tagList_context_edit">Edit Tag</string>
+        <string name="tagList_context_delete">Delete Tag</string>
+        <string name="tagList_context_showTag">Show on Home Page</string>
+        <string name="tagList_context_hideTag">Hide on Home Page</string>
+        
+        <string name="tagList_menu_sortAlpha">Sort A-Z</string>
+        <string name="tagList_menu_sortSize">Sort by Size</string>
+    
+    
+    <!-- Synchronization -->  
+    <skip />
+        <string name="sync_pref_group">Synchronization Services</string>
+        <string name="sync_pref_group_actions">Actions</string>
+        <string name="sync_pref_group_options">Options</string>
+        <string name="p_sync_rtm">sync_rtm</string>
+        <string name="sync_rtm_title">Remember The Milk</string>
+        <string name="sync_rtm_desc">http://www.rememberthemilk.com</string>
+        <string name="p_sync_every">sync_every</string>
+        <string name="sync_every_title">Synchronize Frequency</string>
+        <string name="sync_every_desc">If set, perform sync every # hours</string>
+        <string name="p_sync_button">sync_button</string>
+        <string name="sync_button_title">Main Menu Shortcut</string>
+        <string name="sync_button_desc">Show \"Synchronize\" in twask\'s menu</string>
+        <string name="p_sync_quiet">sync_dialogs</string>
+        <string name="sync_quiet_title">Hide Dialogs</string>
+        <string name="sync_quiet_desc">Hide the Sync Results dialogs</string>
+        <string name="p_sync_background">sync_background</string>
+        <string name="sync_background_title">In Background</string>
+        <string name="sync_background_desc">Synchronize without bothering you</string>
+        <string name="sync_error">Sync Error! Sorry for the inconvenience! Error:</string>
+        <string name="sync_auth_request">
+In order to synchronize, please log in to your %s account and authorize twask to read your data.
+\n\n
+When finished, restart twask and come back here.
+        </string>
+        <string name="sync_rtm_notes">
+Welcome to twask\'s RTM sync!
+\n\n
+Things that don\'t sync:\n
+- Notifications and repeats\n
+- In RTM, deleting, or moving+renaming tasks\n
+\n
+Wish me luck!\n
+        </string>
+        <string name="sync_now">Synchronize Now!</string>
+        <string name="sync_forget">Clear Personal Data</string>
+        <string name="sync_forget_confirm">Clear data for selected services?</string>
+        <string name="sync_no_synchronizers">No Synchronizers Enabled!</string>
+       
+    <!-- Dialog Boxes -->  
+    <skip />
+        <string name="information_title">Information</string>
+        <string name="question_title">Question</string>
+        <string name="notify_yes">View Task</string>
+        <string name="notify_done">Already Done!</string>
+        <string name="notify_snooze">Snooze</string>
+        <string name="notify_no">Quit</string>
+        <string name="notify_snooze_title">Hours/minutes to snooze?</string>
+        
+        <string name="delete_title">Delete</string>        
+        <string name="delete_this_task_title">Delete this task?</string>
+        <string name="delete_this_tag_title">Remove this tag from all tasks?</string>
+        
+        <string name="stop_timer_title">Stop the timer?</string>
+        
+        <string name="quick_tips">
+Some things you may not know about twask:\n
+\n
+- To create a task, just start typing!\n
+- While editing a task, hit \'back\' to save it\n
+- Select a task &amp; press 1-4 to quickly change it\'s priority\n
+- If a task has a deadline, long-press to postpone it\n
+\n
+Thanks for using twask!\n
+        </string>
+
+     
+    <!-- Notification -->  
+    <skip />
+        
+        <string name="notif_definiteDueDate">Absolute Deadline!</string>
+        <string name="notif_preferredDueDate">Goal Deadline!</string>
+        <string name="notif_timerStarted">Working on:</string>
+        
+    <!-- Error Messages -->  
+    <skip />
+    
+        <string name="error_opening">Couldnt find this item:</string>
+        <string name="error_saving">Couldnt save:</string>
+    
+    <!-- Preference Keys -->  
+    <skip />
+
+        <string name="prefs_category_alerts">Notifications</string>
+        
+        <string name="p_notif_quietStart">notif_qstart</string>
+        <string name="prefs_quietStart_title">Quiet Hours Start</string>
+        <string name="prefs_quietStart_desc">Starting hour when twask should be quiet (e.g. 22)</string>
+        
+        <string name="p_notif_quietEnd">notif_qend</string>
+        <string name="prefs_quietEnd_title">Quiet Hours End</string>
+        <string name="prefs_quietEnd_desc">Ending hour when twask should be quiet (e.g. 08)</string>
+          
+        <string name="p_notif_defaultRemind">notif_default_reminder</string>
+        <string name="prefs_defaultRemind_title">Default Reminders</string>
+        <string name="prefs_defaultRemind_desc">For new tasks, in days (i.e. 7). Blank to disable</string>
+        
+        <string name="p_notif_annoy">notif_annoy</string>
+        <string name="prefs_annoy_title">Persistent Mode</string>
+        <string name="prefs_annoy_desc">If checked, you must view reminders before clearing them (also LED)</string>
+        
+        <string name="p_notification_ringtone">notification_ringtone</string>
+        <string name="prefs_notification_title">Notification Ringtone</string>
+        <string name="prefs_notification_desc">Choose a ringtone for twask\'s alerts</string>
+
+        <string name="p_notif_icon">notif_theme</string>
+        <string name="prefs_notificon_title">Notification Icons</string>
+        <string name="prefs_notificon_desc">Choose twask\'s notification bar icon</string>
+        
+        <string name="prefs_category_appearance">Appearance</string>
+            
+        <string name="p_colorize">colorize</string>
+        <string name="prefs_colorize_title">Colorize Task List</string>
+        <string name="prefs_colorize_desc">Different colors for different priorities</string>
+        
+        <string name="p_fontSize">font_size</string>
+        <string name="prefs_fontSize_title">Task List Font</string>
+        <string name="prefs_fontSize_desc">Font on the main listing page (i.e. 22)</string>
+
+        <string name="prefs_category_other">Other</string>
+
+        <string name="p_deadlineTime">deadline_time</string>
+        <string name="prefs_deadlineTime_title">Default Deadlines</string>
+        <string name="prefs_deadlineTime_desc"># of days from now to set new deadlines</string>
+        
+        <string name="displayedFields_PrefScreen_Title">Displayed Fields</string>
+        <string name="displayedFields_PrefScreen_Desc">Select the fields to show in task list</string>
+        
+        <string name="prefs_titleVisible">titleVisible</string> 
+        <string name="prefs_titleVisible_title">Task Title</string>
+        <string name="prefs_titleVisible_desc">Task description</string>
+        <string name="prefs_titleVisible_default">true</string>
+	    <string name="prefs_deadlineVisible">deadlineVisible</string>
+        <string name="prefs_deadlineVisible_title">Dates</string>
+        <string name="prefs_deadlineVisible_desc">Upcoming deadlines / completed date</string>
+        <string name="prefs_deadlineVisible_default">true</string>
+    	<string name="prefs_timeVisible">timeVisible</string>
+        <string name="prefs_timeVisible_title">Times</string>
+        <string name="prefs_timeVisible_desc">Estimated &amp; Elapsed Times</string>
+        <string name="prefs_timeVisible_default">true</string>
+        <string name="prefs_importanceVisible">importanceVisible</string>
+        <string name="prefs_importanceVisible_title">Importance</string>
+        <string name="prefs_importanceVisible_desc">Task importance indicator</string>
+        <string name="prefs_importanceVisible_default">true</string>
+	    <string name="prefs_tagsVisible">tagsVisible</string>
+        <string name="prefs_tagsVisible_title">Tags</string>
+        <string name="prefs_tagsVisible_desc">Tags associated with this task</string>
+        <string name="prefs_tagsVisible_default">true</string>
+	    <string name="prefs_repeatVisible">repeatVisible</string>
+        <string name="prefs_repeatVisible_title">Repeats</string>
+        <string name="prefs_repeatVisible_desc">Task repeat information</string>
+        <string name="prefs_repeatVisible_default">true</string>
+	    <string name="prefs_reminderVisible">reminderVisible</string>
+        <string name="prefs_reminderVisible_title">Reminders</string>
+        <string name="prefs_reminderVisible_desc">Displayed if this task has reminders</string>
+        <string name="prefs_reminderVisible_default">false</string>
+	    <string name="prefs_notesVisible">notesVisible</string>
+        <string name="prefs_notesVisible_title">Notes</string>
+        <string name="prefs_notesVisible_desc">Notes associated with this task</string>
+        <string name="prefs_notesVisible_default">false</string>
+        
+    <!-- About -->
+	<string name="about">About</string>
+	<string name="about_title">About %s</string>
+	<string name="about_text">Version %s \n\n
+	Twask Update keeps you informed on new application versions.\n
+	</string>
+	
+	<!-- EULA -->
+	<string name="eula_title">Twask EULA</string>
+	<string name="eula_description">
+	"Copyright 2009 Double Sunflower Holdings Corporation\n
+	Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\n
+	http://www.apache.org/licenses/LICENSE-2.0\n
+	Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.\n
+	\n"
+	</string>
+	<string name="eula_accept">Accept</string>
+	<string name="eula_refuse">Cancel</string>
+	
+	<string name="about_translators">translator-credits</string>
+
+	<!-- Update -->
+	<string name="update_menu">Check updates</string>
+    <string name="update_box_text">Please check manually for updates or install Twask Update
+	for automatic notifications.
+	Current version: %s
+	</string>
+	<string name="update_check_now">Check now.</string>
+	<string name="update_get_updater">Get OI Updater.</string>
+	<string name="update_app_url">market://search?q=pname:org.openintents.flashlight</string>
+	<string name="update_checker_url">market://search?q=pname:org.openintents.updatechecker</string>
+	<string name="update_error">Download application not available.</string>
+
+	<!-- downloader -->
+
+    <string name="success">All data has been downloaded successfully.</string>
+    <string name="download_again">Download again</string>
+
+    <string name="download_activity_title">Downloading</string>
+    <string name="download_activity_cancel">Cancel Download</string>
+    <string name="download_activity_progress">Progress:</string>
+    <string name="download_activity_verifying">Verifying...</string>
+    <string name="download_activity_time_remaining">Time Remaining:</string>
+    <string name="download_activity_time_remaining_unknown">unknown</string>
+    <string name="download_activity_time_remaining_minutes">minutes</string>
+    <string name="download_activity_time_remaining_seconds">seconds</string>
+    <string name="download_activity_time_remaining_hours">hours</string>
+    <string name="download_activity_time_remaining_days">days</string>
+    <string name="download_activity_download_stopped">Download stopped</string>
+    <string name="download_activity_retry">Retry</string>
+    <string name="download_activity_quit">Quit</string>
+    
+    
+    
+    
+    <string name="go">Search Panoramio</string>
+    <string name="menu_radar">Radar</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_author">Author info</string>
+    <string name="menu_view">View on web</string>
+    <string name="menu_stop">Stop Service</string>
+  
+    <string name="untitled">Untitled</string>  
+    
+    <string name="no_radar_title">Radar not found</string>
+	<string name="no_radar">No radar activity has been installed. Please download Radar from the Market.</string>
+      
+    <string name="copyright">Photos provided by Panoramio are under the copyright of their owners.</string>   
+
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="service_name">GPSLoggerService</string>
+    <string name="local_service_started">GPSLoggerService is running</string>
+    <string name="local_service_stopped">GPSLoggerService has stopped</string>
+    <string name="Export">Export KML to SD Card</string>
+
+	 <string name="lolcat_pick">Pick photo</string>
+    <string name="lolcat_nothing_picked">No photo picked!</string>
+    <string name="lolcat_clear_caption">Clear captions</string>
+    <string name="lolcat_clear_photo">Clear photo</string>
+    <string name="lolcat_add_captions">Add captions</string>
+    <string name="lolcat_change_captions">Change captions</string>
+    <string name="lolcat_save">Save &amp; share</string>
+    <string name="lolcat_caption_dialog_title">Captions</string>
+    <string name="lolcat_caption_dialog_top_label">Top:</string>
+    <string name="lolcat_caption_dialog_bottom_label">Bottom:</string>
+    <string name="lolcat_caption_dialog_ok">OK</string>
+    <string name="lolcat_caption_dialog_cancel">Cancel</string>
+    <string name="lolcat_saving">Saving...</string>
+    <string name="lolcat_save_failed">Couldnt save photo</string>
+    <string name="lolcat_scan_failed">Couldnt scan photo on SD card</string>
+    <string name="lolcat_share_failed">Couldnt share photo</string>
+    <string name="lolcat_scanning">Scanning...</string>
+    <string name="lolcat_sendImage_label">Share picture via</string>
+    <string name="lolcat_save_succeeded_dialog_title">Image saved!</string>
+    <string name="lolcat_save_succeeded_dialog_body_format">"Lolcat image successfully saved:\n  Filename: %s\n  Uri: %s"</string>
+    <string name="lolcat_save_succeeded_dialog_view">View in gallery</string>
+    <string name="lolcat_save_succeeded_dialog_share">Share</string>
+    <string name="lolcat_save_succeeded_dialog_cancel">Cancel</string>
+    
+    
+    <string name="rw_name">Rate Selected Business</string>
+    <string name="bs_name">Search for Top Rated Businesses</string>
+    <string name="tc_name">Choose Type of Business</string>
+    <string name="tw_name">Thanks for Rating</string>
+    <string name="dir_name">Directions to Selected Business</string>
+    
+     <string name="scanning">Scanning...</string>   
+    <string name="menu_standard">Standard</string>
+    <string name="menu_metric">Metric</string>
+    
+    
+    	<string name="ui_sync_button_label_idle">Backup now</string>
+	<string name="ui_sync_button_label_done">Backup again</string>
+	<string name="ui_sync_button_label_error">Retry backup</string>
+	<!-- TODO(chstuder): Rename the following string resource. -->
+	<string name="ui_sync_button_label_syncing">Stop backup</string>
+	<string name="ui_sync_button_label_canceling">Stopping\u2026</string>
+	
+	<string name="status_idle">Idle</string>
+	
+		<string name="status_idle_details">Last backup</string>
+	
+		<string name="status_idle_details_never">Never</string>
+	<string name="status_sync">Backing up</string>
+		<string name="status_sync_details">Backed up </string>
+	<string name="status_login">Backing up</string>
+		<string name="status_login_details">Logging in\u2026</string>
+	<string name="status_done">Done</string>
+		<string name="status_done_details_max_per_sync">Maximum of %1$d items per backup reached. Restart backup to continue.</string>
+		<string name="status_done_details_noitems">There were no items to backup.</string>
+		<plurals name="status_done_details">
+	        <item quantity="one">Successfully backed up </item>
+	        <item quantity="other">Successfully backed up </item>
+	    </plurals>
+	<string name="status_unknown_error">Error</string>
+		<string name="status_unknown_error_details">Error during backup:\n</string>
+	<string name="status_auth_failure">Login error</string>
+		<string name="status_auth_failure_details">Please make sure you enabled IMAP in your Gmail account settings and check your username and password.</string>
+	<string name="status_calc">Backing up</string>
+		<string name="status_calc_details">Calculating\u2026</string>
+	<string name="status_canceled">Canceled</string>
+		<string name="status_canceled_details">%1$d/%2$d items successfully backed up.</string>
+	
+	<string name="ui_status_label">SMS Backup</string>
+	<string name="ui_settings_label">Settings</string>
+	<string name="ui_settings_advanced_label">Advanced settings</string>
+	<string name="ui_settings_advanced_desc">Set advanced preferences.</string>
+	<string name="ui_settings_advanced_cat_label">SMS Backup <small>\u00bb Advanced settings</small></string>
+	
+	<string name="ui_login_label">Username</string>
+	<string name="ui_login_desc">Your Google account/e-mail address.</string>
+	<string name="ui_login_dialog_msg">WARNING: Changing the username will reset all your backup information and your password.</string>
+	
+	<string name="ui_password_label">Password</string>
+	<string name="ui_password_desc">Your Google account password.</string>
+	<string name="ui_password_dialog_msg">The password is stored on this device and is only used to login at Gmail.</string>	
+	
+	<string name="ui_imap_folder_label">Gmail label</string>
+	<string name="ui_imap_folder_desc">Gmail label assigned to SMS.</string>
+	<string name="ui_imap_folder_label_dialog_msg">Backed up SMS messages will be tagged with this label in Gmail.</string>
+	
+	<string name="ui_max_items_per_sync_label">Items per backup</string>
+	<string name="ui_max_items_per_sync_desc">Maximum number of items per backup.</string>
+	
+	<string name="ui_enable_auto_sync_label">Auto backup</string>
+	<string name="ui_enable_auto_sync_desc">Whether to automatically backup new SMS or not.</string>
+	
+	<string name="ui_dialog_missing_credentials_title">Login information</string>
+	<string name="ui_dialog_missing_credentials_msg">You need to set the login information before backing up.</string>
+	<string name="ui_dialog_sync_data_reset_title">Backup data reset</string>
+	<string name="ui_dialog_sync_data_reset_msg">Backup data has been reset. Please set your password and perform a manual backup. You will be able to decide whether to backup or skip messages stored on this device.</string>
+	<string name="ui_dialog_invalid_imap_folder_title">Invalid label name</string>
+	<string name="ui_dialog_invalid_imap_folder_msg">The label name may only contain unaccented letters (A-Z, a-z).</string>
+	
+	<string name="ui_dialog_first_sync_title">First backup</string>
+	<string name="ui_dialog_first_sync_msg">Backup or skip all messages currently stored on this device?\n\nNote: The backup will be split into batches of %1$d messages.</string>
+	
+	<string name="ui_dialog_need_first_manual_sync_title">First backup</string>
+	<string name="ui_dialog_need_first_manual_sync_msg">The first backup needs to be initiated manually. Would you like to perform a backup now?</string>
+	
+	<!-- string name="ui_ok">OK</string -->
+	<!-- string name="ui_yes">Yes</string -->
+	<!-- string name="ui_no">No</string -->
+	<string name="ui_sync">Backup</string>
+	<string name="ui_skip">Skip</string>
+	
+	<string name="err_could_not_create_folder">Could not create label.</string>
+	<string name="err_first_sync_needs_skip_flag">Internal error: First backup without indication whether to skip messages or not.</string>
+	<string name="err_sync_requires_login_info">Cannot backup without login information.</string>
+	<string name="err_communication_error">General communication error.</string>
+	
+	<string name="menu_info">About</string>
+	<string name="menu_market">Update</string>
+	
+	<string name="about_email_button">Email author</string>
+	<string name="about_email_subject">%1$s %2$s</string>
+	<string name="about_email_content">Hi Christoph,\n</string>
+	<string name="about_email_uri">mailto:chstuder@gmail.com</string>
+	
+	
+	<string name="share_subject">SMS Backup for Android</string>
+	<string name="share_body">You can now backup all SMS messages on your Android device to Gmail!\nCheck out the SMS Backup application by clicking the following link on your device:\n%1$s\nor visit:\n%2$s</string>
+	
+    <string name="menu_item_map">Show Map</string>
+  	<string name="menu_item_list">Show Distances</string>
+  	<string name="menu_item_refresh">Refresh Contacts</string>
+  	
+  	<string name="detected_gestures">Detected gestures:</string>
+    <string name="clear">Clear</string>
+    
+</resources>

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/email
+END
+SendEmailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/email/SendEmailAction.java
+END
+OpenEmailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/email/OpenEmailAction.java
+END
+DeleteEmailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/email/DeleteEmailAction.java
+END
+OpenEmailListAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4/Twask-new/src/com/doublesunflower/core/actions/email/OpenEmailListAction.java
+END

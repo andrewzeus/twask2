@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm
+END
+Prefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/Prefs.java
+END
+ApplicationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/ApplicationInfo.java
+END
+Param.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/Param.java
+END
+ServiceInternalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/ServiceInternalException.java
+END
+Invoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/Invoker.java
+END
+ServiceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/ServiceException.java
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/Service.java
+END
+ServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/Twask-new/src/com/mdt/rtm/ServiceImpl.java
+END
